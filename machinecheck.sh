@@ -1,7 +1,7 @@
 #!/bin/bash
 # bash version 5.0.3(1)-release
 #========================================================================
-# S L O W F R A M E C H E C K
+# M A C H I N E C H E C K
 #========================================================================
 # SYNOPSIS
 #       ./slowframecheck ${IP} ${OPTION}
@@ -21,20 +21,7 @@
 #       -C  Checking C-State Only
 #       -y  Checking Hyperthreading Only
 #========================================================================
-# IMPLEMENTATION
-#-    version         Slowframecheck 1.2.6
-#-    code            Bash Script
-#-    author          Henry Lee - Team Korea - DSE
-#-    copyright       Copyright (c) Unity Multiplay DSE Team
-#-    contributor     Zoey P.|Juan G.|Jay J.|Nash I.|DK L.|Travis A.
-#========================================================================
-# History
-#    2022-04-02 Deployed by Henry Lee
-#    2022-06-23 Henry Lee to hand over the script to Zoey P and Jay J
-#               Contact zoey.park@unity3d.com and jay.jin@unity3d.com
-#               for editing the script.
-#========================================================================
-# S L O W F R A M E C H E C K
+# M A C H I N E C H E C K
 #========================================================================
 
 ##Setting variable=======================================================
