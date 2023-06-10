@@ -4,11 +4,7 @@
 # M A C H I N E C H E C K
 #========================================================================
 # SYNOPSIS
-#       ./slowframecheck ${IP} ${OPTION}
-#
-# DESCRIPTION
-#      Slow Frame Check - Bash Script
-#      https://confluence.unity3d.com/x/Fh0UCw
+#       ./machinecheck ${IP} ${OPTION}
 #
 # OPTIONS
 #      Default is running all commands
